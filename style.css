@@ -163,6 +163,7 @@ main {
         display: flex;
         align-items: center;
         flex-direction: column;
+        justify-content: center;
         transition: 0.3s ease-in;
         background-color: #5654b3;
     }
@@ -175,7 +176,7 @@ main {
         padding: 10px;
     }
 
-    nav ul a {
+    nav ul li a {
         font-size: 18px;
         color: white;
     }
